@@ -1,4 +1,4 @@
-#creytdeptrai
+# creytdeptrai
 # WireGuard installer
 
 **This project is a bash script that aims to setup a [WireGuard](https://www.wireguard.com/) VPN on a Linux server, as easily as possible!**
