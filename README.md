@@ -8,7 +8,7 @@ The server will apply NAT to the client's traffic so it will appear as if the cl
 
 The script supports both IPv4 and IPv6. Please check the [issues](https://github.com/creyt2012/wireguard-install/issues) for ongoing development, bugs and planned features! You might also want to check the [discussions](https://github.com/creyt2012/wireguard-install/discussions) for help.
 
-WireGuard does not fit your environment? Check out [openvpn-install](https://github.com/creyt2012/openvpn-install).
+WireGuard does not fit your environment? Check out [openvpn-install](https://github.com/creyt2012/scriptopenvpn).
 
 ## Requirements
 
