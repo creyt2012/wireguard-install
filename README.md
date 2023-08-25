@@ -63,6 +63,4 @@ You can [say thanks](https://saythanks.io/to/angristan) if you want!
 
 This project is under the [MIT Licence](https://raw.githubusercontent.com/creyt2012/wireguard-install/master/LICENSE)
 
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=creyt2012/wireguard-install&type=Date)](https://star-history.com/#creyt2012/wireguard-install&Date)
